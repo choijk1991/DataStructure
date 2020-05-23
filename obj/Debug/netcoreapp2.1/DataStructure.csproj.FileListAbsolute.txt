@@ -1,0 +1,11 @@
+D:\Workspace\DataStructure\DataStructure\bin\Debug\netcoreapp2.1\DataStructure.deps.json
+D:\Workspace\DataStructure\DataStructure\bin\Debug\netcoreapp2.1\DataStructure.runtimeconfig.json
+D:\Workspace\DataStructure\DataStructure\bin\Debug\netcoreapp2.1\DataStructure.runtimeconfig.dev.json
+D:\Workspace\DataStructure\DataStructure\bin\Debug\netcoreapp2.1\DataStructure.dll
+D:\Workspace\DataStructure\DataStructure\bin\Debug\netcoreapp2.1\DataStructure.pdb
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.csprojAssemblyReference.cache
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.csproj.CoreCompileInputs.cache
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.AssemblyInfoInputs.cache
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.AssemblyInfo.cs
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.dll
+D:\Workspace\DataStructure\DataStructure\obj\Debug\netcoreapp2.1\DataStructure.pdb
